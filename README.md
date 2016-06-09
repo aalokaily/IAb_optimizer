@@ -4,7 +4,7 @@
 - Description 
   -
 
--Input formats--
+- Input formats
   - multi-line inputs.
   - Inputs are not case sensitive.
   - Each line must be a 9-mer or more.
@@ -12,7 +12,7 @@
   
   
 
--Output formats--
+- Output formats
   - Sequence number 
   - 9mer start Pos
   - 9mer
