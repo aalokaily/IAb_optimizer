@@ -26,7 +26,7 @@
 
 
 - Contacts
-For more quiries or questions, please contact
+  - For more quiries or questions, please contact
 Anas Al-okaily, anas.al-okaily@uconn.edu 
 
 
