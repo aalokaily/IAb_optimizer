@@ -5,8 +5,8 @@
   
 
 - Input formats
-  - multi-line inputs.
-  - Inputs are not case sensitive.
+  - Multi-line inputs.
+  - Inputs are not case sensitive (can be in upper or lower case).
   - Each line must be a 9-mer or more.
   - Input must not contain B J O U X Z or ! @ # $ % ^ & * ( ) , numbers, line break or other special characters.
   
