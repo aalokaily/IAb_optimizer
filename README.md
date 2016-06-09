@@ -2,7 +2,7 @@
 - version 1.0.0
 
 - Description 
-  -
+  
 
 - Input formats
   - multi-line inputs.
