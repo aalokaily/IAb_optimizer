@@ -15,9 +15,9 @@
 
 - Output formats
   - Sequence number 
-  - 9mer start Pos
+  - 9mer start position
   - 9mer
-  - 9mer aa value 
+  - 9mer amino acids value 
   - Possible Max Difference
   - Max Score
   - 9 mer position 
