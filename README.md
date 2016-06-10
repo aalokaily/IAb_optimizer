@@ -1,10 +1,3 @@
-# IAb_optimizer
-- Version
-  - 1.0.0
-
-- Description 
-  
-
 - Input formats
   - Multi-line inputs.
   - Inputs are not case sensitive (can be in upper or lower case).
@@ -14,20 +7,19 @@
   
 
 - Output formats
-  - Sequence number 
+  - Sequence number (based on line number)
   - 9mer start position
   - 9mer
-  - 9mer amino acids value 
+  - 9mer amino acid value 
   - Possible Max Difference
   - Max Score
-  - 9 mer position 
-  - Original aa
-  - Target aa
+  - 9mer position 
+  - Original amino acid
+  - Target amino acid
 
 
 - Contacts
-  - For more quiries or questions, please contact
-Anas Al-okaily, anas.al-okaily@uconn.edu 
-
+  - For more queries or questions, please contact
+Anas Al-okaily, anas.al-okaily@uconn.edu
 
 Last update: 06/2016
